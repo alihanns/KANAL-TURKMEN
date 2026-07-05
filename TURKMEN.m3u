@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Türkmenistan",ARKADAG
+https://alpha.tv.online.tm/hls/ch000.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Yaslyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Türkmen Sporty
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Ashgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+
+#EXTINF:-1 group-title="Türkmenistan",Türkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
